@@ -1,0 +1,23 @@
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Project - Console Application.exe
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Project - Console Application.deps.json
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Project - Console Application.runtimeconfig.json
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Project - Console Application.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Project - Console Application.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Project - Console Application.pdb
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.pdb
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Project - Console Application\Project - Console Application\obj\Debug\netcoreapp3.1\Project - Console Application.csprojAssemblyReference.cache
